@@ -1,6 +1,0 @@
-train: /Users/richardjiang/Downloads/2 - Competitions & Research/Microsoft AI Talent Program/YOLO-Learning/GitHub/Eco-Sight/1. Image Classification (Task 1)/Richard's Implementation/custom_dataset/dataset/train/images
-val: /Users/richardjiang/Downloads/2 - Competitions & Research/Microsoft AI Talent Program/YOLO-Learning/GitHub/Eco-Sight/1. Image Classification (Task 1)/Richard's Implementation/custom_dataset/dataset/valid/images
-test: /Users/richardjiang/Downloads/2 - Competitions & Research/Microsoft AI Talent Program/YOLO-Learning/GitHub/Eco-Sight/1. Image Classification (Task 1)/Richard's Implementation/custom_dataset/dataset/test/images
-
-nc: 1
-names: ['licence']
