@@ -29,7 +29,7 @@ Eco-sight 项目是一个致力于自动驾驶的智能视觉感知系统。项�
 
 **最终选择：nuScenes** 数据集，结合雷达云图与摄像机数据，通过预处理后获得了训练、验证和测试数据集。
 
-![训练结果对比](assets/nuScenes.jpg)
+![训练结果对比](assets/nuScenes.png)
 
 ### 数据预处理流程
 
@@ -38,7 +38,7 @@ Eco-sight 项目是一个致力于自动驾驶的智能视觉感知系统。项�
 - 使用工具：`Python`、`labelimg` 库、`X-AnyLabeling`、`yolo10x`
 - 预处理操作包括：手动标注和自动识别 + 人工筛选
 
-![训练结果对比](assets/preprocessing.jpg)
+![训练结果对比](assets/preprocessing.png)
 
 ## 功能实现
 
