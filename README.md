@@ -71,7 +71,7 @@ Eco-sight 项目是一个致力于自动驾驶的智能视觉感知系统。项�
   - 响应时间：平均20-25毫秒，达到行业标准性能。
   - 这一成就不仅展示了我们一定的专业能力，也为我们的技术在实时性和安全性要求极高的自动驾驶应用中提供了有力的支持。
 
-<img src="assets/recognition_system.png" alt="训练结果对比" style="margin-top: 40px; margin-bottom: 40px;">
+<img src="assets/recognition_system.png" alt="训练结果对比" style="margin-top: 100px; margin-bottom: 100px;">
 
 ## 挑战与提升
 
