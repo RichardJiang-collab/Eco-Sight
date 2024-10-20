@@ -39,7 +39,7 @@ Eco-sight 项目是一个致力于自动驾驶的智能视觉感知系统。项�
 - 使用工具：`Python`、`labelimg` 库、`X-AnyLabeling`、`yolo10x`
 - 预处理操作包括：手动标注和自动识别 + 人工筛选
   
-<br><br>
+<br>
 ![训练结果对比](assets/preprocessing.png)
 <br><br>
 
