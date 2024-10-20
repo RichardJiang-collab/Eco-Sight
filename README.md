@@ -1,2 +1,7 @@
-# Eco-Sight
-This project aims to develop energy-efficient computer vision technologies for accurate visual scene understanding. By using optimized algorithms, we strive to create high-performance solutions that minimize power consumption.
+# Eco-Sight 🍀
+
+Eco-sight项目是一个致力于自动驾驶的智能视觉感知系统，在当前中国新能源汽车产业快速发展的背景下，Eco-sight项目团队深入学习和实践了数据集的选择与制作、YOLO模型的训练以及智能帧率调节，以确保在各种驾驶环境下都能实现快速而准确的目标检测。
+
+随着新能源汽车在中国的快速普及，预计到2025年，新能源汽车的渗透率将趋于40%，自动驾驶技术的发展对于推动这一转变至关重要。Eco-sight项目通过采用深度学习和人工智能技术，提高了自动驾驶汽车的安全性和效率。
+
+同时，Eco-sight项目积极响应“碳达峰碳中和”的国家战略，通过优化算法和提升能效，减少能源消耗，降低碳排放，为实现绿色低碳的智能交通系统做出贡献。
