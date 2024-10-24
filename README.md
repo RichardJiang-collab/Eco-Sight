@@ -98,5 +98,5 @@ Eco-sight 项目是一个致力于自动驾驶的智能视觉感知系统。项�
 
 ---
 
-**项目链接**：[Eco-sight on GitHub](https://github.com/RichardJiang-collab/Eco-sight/tree/main)
+**项目链接**：[Eco-sight on GitHub](https://github.com/RichardJiang-collab/Eco-Sight/tree/main)
 
